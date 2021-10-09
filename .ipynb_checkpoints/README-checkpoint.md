@@ -92,4 +92,6 @@ Lain-lain
 
 1. [Python4Geoscience Texas A&M University, Dr. Thyng](https://github.com/kthyng/python4geosciences); Repo ini bagus untuk riset dibidang geosciences.
 
+2. [Old Thesis using Python to support a GUI based software for ORC](https://repositum.tuwien.at/bitstream/20.500.12708/12641/2/Organic%20rankine%20cycle%20for%20waste%20heat%20recovery.pdf)
+
 
