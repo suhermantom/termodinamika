@@ -17,9 +17,21 @@ Berisi jupyter notebook files berbasis Python 3 yang berasal dari buku Termodina
 
 1. [Numerical Methods in Materials Science and Engineering, Asst. Prof. Robert G. Erdmann, U. Arizona ](http://www.u.arizona.edu/~erdmann/mse350/)
 
+2. [Teaching Essential Diagrams (p-v-T) untuk beberapa jenis fluida](https://github.com/stephansmit/interactive_coolprop)
+
+![Interactive p-v-T Diagram](img/interactive-coolprop.png)
+
+Cara penggunaan:
+- dengan VSCode, open `app.py` > run the program
+- maka akan membuka browser local: `http://127.0.0.1:8050/`
+#### Warning:
+media ini cukup berat untuk digunakan di laptop, karena memakan banyak memori
 
 
+3. [_Foundamentals and Practice of Software Engineering_ dengan contoh-contoh Termodinamika]()
+[![DOI](https://zenodo.org/badge/43438544.svg)](https://zenodo.org/badge/latestdoi/43438544)
 
+Menurut saya, ini salahsatu material pembelajaran berbasis python paling lengkap saat ini yang memberikan contoh penggunaan Termodinamika. Adapun contoh-contohnya cukup kompleks karena memang peruntukan perkuliahannya untuk _software engineers_.
 
 ----------
 ## 3. Buku-buku Termodinamika berbantu Python
@@ -67,6 +79,7 @@ Using Python, Malthe-Sorenssen & Dysthe, 2017](https://www.uio.no/studier/emner/
 
 -----------
 ## Libraries/Packages di Python
+
 1. [Pyromat, Martin, Penns State U.](http://pyro.sourceforge.net/pyrodoc.pdf); Tutorial untuk penggunaan Pyro dapat dilihat di: 
 Paper yang terkait dengan Pyro, diantaranya: [1. Teaching the foundations of thermodynamics with PYro](https://ieeexplore.ieee.org/document/7757589/metrics#metrics), [2. An Online Tool for Facilitating Thermodynamic](https://peer.asee.org/an-online-tool-for-facilitating-thermodynamic-property-lookups.pdf), [](),
 
@@ -75,6 +88,9 @@ Paper yang terkait dengan Pyro, diantaranya: [1. Teaching the foundations of the
 3. [Thermostate, Weber](https://thermostate.readthedocs.io/en/stable/); berikut dapat diunduh [github](https://github.com/bryanwweber/thermostate) dan [dokumentasi](https://thermostate.readthedocs.io/en/stable/). Package ini ditulis dengan tujuan mempermudah penggunaan CoolProp untuk analisa aplikatif di Termodinamika. Contoh soal cukup banyak diberikan oleh penulis. Kelemahannya adalah terbatasnya zat/substances yang didapat dianalisa.
 
 5. [thermo-bridge](https://github.com/nick5435/thermo-bridge); Lib ini versi advans penggunaan CoolProp di Termodinamika, dibuat oleh peneliti dari U. Winona.
+
+6. [TESpy](https://tespy.readthedocs.io/en/main/introduction.html); Lib yang digunakan untuk simulasi _Thermal Engineering_ seperti _power plants, distric heating system, heat pumps_.
+* Tutorial TESpy dapat dibaca [disini](https://github.com/fwitte/tespy_tutorial_usermeeting_2021)
 
 
 
